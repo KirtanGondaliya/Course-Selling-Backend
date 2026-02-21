@@ -23,7 +23,7 @@ A RESTful backend API for a course selling platform built with **Bun**, **Expres
 ## 📁 Project Structure
 
 ```
-pratice-course-selling-backend/
+course-selling-backend/
 ├── prisma/
 │   ├── schema.prisma          # Database schema (User, Course, Lesson, Purchase)
 │   └── migrations/            # Prisma migration files
