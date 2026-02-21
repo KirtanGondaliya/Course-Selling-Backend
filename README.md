@@ -77,7 +77,7 @@ Make sure you have the following installed:
 
 ```bash
 git clone https://github.com/<your-username>/pratice-course-selling-backend.git
-cd pratice-course-selling-backend
+cd course-selling-backend
 ```
 
 ### 2. Install Dependencies
