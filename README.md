@@ -660,17 +660,3 @@ Create a `.env` file in the root with the following variables:
 | `bunx prisma studio`         | Open Prisma Studio (DB GUI)                   |
 
 ---
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/my-feature`
-3. Commit your changes: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/my-feature`
-5. Open a Pull Request
-
----
-
-## 📝 License
-
-This project is for educational purposes as part of a Web Development Bootcamp.
